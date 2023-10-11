@@ -72,13 +72,9 @@ docker-compose down -v
 
 - Spring Boot
 - Kafka
-- H2 Database
+- H2 Database (In memory database)
 - JavaFaker
 
 ## Acknowledgments
 
 - The JavaFaker library for generating fake product data.
-
----
-
-Please make sure to customize the content according to your project's specific details and requirements.
